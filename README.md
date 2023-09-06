@@ -1,1 +1,1 @@
-# IPYNB renderer Python Package
+# Project template
